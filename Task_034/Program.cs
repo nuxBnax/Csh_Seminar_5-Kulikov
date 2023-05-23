@@ -5,6 +5,12 @@
 // чётных чисел в массиве.
 // [345, 897, 568, 234] -> 2
 
+void Main()
+{
+    int[] arr = FillArray(10, 100, 999);
+    PrintArray(arr);
+    System.Console.WriteLine($"Number of even numbers in array: {CountPositiveElements(arr)}");
+}
 
 int[] FillArray(int size, int leftRange, int rightRange)
 {
@@ -24,7 +30,7 @@ int CountPositiveElements(int[] array)
     int count = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if(array[i] % 2 == 0)
+        if (array[i] % 2 == 0)
         {
             count++;
         }
@@ -37,6 +43,4 @@ void PrintArray(int[] arr)
     System.Console.WriteLine("[" + string.Join(", ", arr) + "]");
 }
 
-int[] arr = FillArray(10, 100, 999);
-PrintArray(arr);
-System.Console.WriteLine($"Number of even numbers in array: {CountPositiveElements(arr)}");
+Main();
