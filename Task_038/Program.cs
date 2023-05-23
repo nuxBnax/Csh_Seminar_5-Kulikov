@@ -43,7 +43,7 @@ double FindDifferenceMaxMin(double[] array)
 
 void PrintArray(double[] arr)
 {
-    System.Console.WriteLine("[" + string.Join(", ", arr) + "]");
+    System.Console.WriteLine("[" + string.Join(" ", arr) + "]");
 }
 
 double[] arr = FillArray(10, 100, 999);

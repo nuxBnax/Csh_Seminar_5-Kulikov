@@ -38,4 +38,4 @@ void PrintArray(int[] arr)
 
 int[] arr = FillArray(7, -20, 100);
 PrintArray(arr);
-System.Console.WriteLine($"Sum of number with odd index in array: {CountPositiveElements(arr)}");
+System.Console.WriteLine($"Sum of numbers with odd index in array: {CountPositiveElements(arr)}");
