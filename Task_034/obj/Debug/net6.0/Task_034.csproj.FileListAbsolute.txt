@@ -13,3 +13,18 @@ C:\Users\Саша\GeekBrains\C sharp\Программирование Сsharp\Д
 C:\Users\Саша\GeekBrains\C sharp\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.pdb
 C:\Users\Саша\GeekBrains\C sharp\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.genruntimeconfig.cache
 C:\Users\Саша\GeekBrains\C sharp\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\ref\Task_034.dll
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\bin\Debug\net6.0\Task_034.exe
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\bin\Debug\net6.0\Task_034.deps.json
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\bin\Debug\net6.0\Task_034.runtimeconfig.json
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\bin\Debug\net6.0\Task_034.dll
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\bin\Debug\net6.0\Task_034.pdb
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.csproj.AssemblyReference.cache
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.AssemblyInfoInputs.cache
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.AssemblyInfo.cs
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.csproj.CoreCompileInputs.cache
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.dll
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\refint\Task_034.dll
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.pdb
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\Task_034.genruntimeconfig.cache
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 5\Tasks\Task_034\obj\Debug\net6.0\ref\Task_034.dll

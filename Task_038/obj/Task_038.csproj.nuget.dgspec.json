@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Саша\\GeekBrains\\C sharp\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\Task_038.csproj": {}
+    "D:\\Программирование\\Семинары\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\Task_038.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Саша\\GeekBrains\\C sharp\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\Task_038.csproj": {
+    "D:\\Программирование\\Семинары\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\Task_038.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Саша\\GeekBrains\\C sharp\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\Task_038.csproj",
+        "projectUniqueName": "D:\\Программирование\\Семинары\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\Task_038.csproj",
         "projectName": "Task_038",
-        "projectPath": "C:\\Users\\Саша\\GeekBrains\\C sharp\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\Task_038.csproj",
+        "projectPath": "D:\\Программирование\\Семинары\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\Task_038.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Саша\\GeekBrains\\C sharp\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\obj\\",
+        "outputPath": "D:\\Программирование\\Семинары\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_038\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

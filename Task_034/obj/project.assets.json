@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Саша\\GeekBrains\\C sharp\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_034\\Task_034.csproj",
+      "projectUniqueName": "D:\\Программирование\\Семинары\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_034\\Task_034.csproj",
       "projectName": "Task_034",
-      "projectPath": "C:\\Users\\Саша\\GeekBrains\\C sharp\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_034\\Task_034.csproj",
+      "projectPath": "D:\\Программирование\\Семинары\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_034\\Task_034.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Саша\\GeekBrains\\C sharp\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_034\\obj\\",
+      "outputPath": "D:\\Программирование\\Семинары\\Программирование Сsharp\\ДЗ\\Семинар 5\\Tasks\\Task_034\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
